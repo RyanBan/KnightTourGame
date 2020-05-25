@@ -1,0 +1,9 @@
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\bin\Debug\Assignment1.exe.config
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\bin\Debug\Assignment1.exe
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\bin\Debug\Assignment1.pdb
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\obj\Debug\KnightTour.csprojAssemblyReference.cache
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\obj\Debug\Assignment1.Form1.resources
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\obj\Debug\KnightTour.csproj.GenerateResource.cache
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\obj\Debug\Assignment1.exe
+C:\Users\banse\Desktop\Coop3\GitHubProject\KnightTourGame\KnightTour\obj\Debug\Assignment1.pdb
